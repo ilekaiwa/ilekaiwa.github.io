@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ilekaiwa.github.io/HCZ/sitemap_index.txt
+Sitemap: https://ilekaiwa.github.io/HsV/sitemap_index.txt
+Sitemap: https://ilekaiwa.github.io/QMq/sitemap_index.txt
+Sitemap: https://ilekaiwa.github.io/fLF/sitemap_index.txt
